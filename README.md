@@ -20,7 +20,7 @@ Python DesktopCleaner.py
 
 ## Running Test
 
-![Runing Test](https://5.top4top.net/p_1383xs4c41.gif)
+![Runing Test] (https://5.top4top.net/p_1383xs4c41.gif)
 
 
 ## Authors
